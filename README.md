@@ -1,6 +1,6 @@
 # Hello, I'm TEDDY SIAKA 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **[Your Specialization or Interests]**.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **software development and blockchain techonology**.
 
 ## 🌱 What I'm currently working on:
 - **Terti-optimizer**: A Golang project that arranges tetrominos into the smallest square possible.
